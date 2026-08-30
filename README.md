@@ -21,7 +21,9 @@ patterns.
 ## Tools Used
 - **Python** (pandas, matplotlib, seaborn) — data cleaning & analysis
 - **Power BI** — interactive dashboard & visualization
-- **Jupyter Notebook** — documented analysis workflow## Key Findings
+- **Jupyter Notebook** — documented analysis workflow
+
+## Key Findings
 - **Auckland's dominance is growing**: Auckland's share of NZ's total 
   population rose from 31% (2000) to 36% (2023), confirming increasing 
   urbanisation pressure on infrastructure and housing.
